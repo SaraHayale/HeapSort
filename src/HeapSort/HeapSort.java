@@ -8,7 +8,7 @@ public class HeapSort {
 			A = array;
 			size = array.length-1;
 		}
-		
+		  
 		private static void swap(int i, int j){
 			int temp = A[i];
 			A[i] = A[j];
